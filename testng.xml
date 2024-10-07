@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- parallel keyword to run test classes parallely -->
+<suite name="All Test Suite" parallel="classes">
+    <!-- Test suite configuration -->
+    <test verbose="2" preserve-order="true" name="D:/selenium with java/Project1/src/test/java/test/TestNG_XML_GoogleSearch.java">
+        <!-- Test classes to be included in this suite -->
+        <classes>
+            <class name="test.TestNG_XML_GoogleSearch"></class>
+
+            <class name="test.TestNG_XML2_BingSearch">
+                <methods>
+                    <!-- Include only the methods that we want to execute from this class.
+                     Eventhough there are two tets methods in TestNG_XML2_BingSearch, we want to execute only msnSearch method-->
+                    <include name="msnSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+        <!-- This testNG XML file is used to control th execution of testsNG tests.
+        It can control by providing what classes/methods should be included/excluded, can set dependencies. So we can set all configurations
+
+        To create this xml file,
+        1. Go to plugins and enable Create testNG XML
+        2. Right click the Java class
+        3. Select 'Create TestNG XML'
+        -->
+
+<!-- After the file is completed, right click on the file and select Run with Coverage option -->

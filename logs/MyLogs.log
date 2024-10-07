@@ -1,0 +1,65 @@
+[INFO ] 2024-08-21 14:14:21.100 [main] log4jSample - This is information msg
+[ERROR] 2024-08-21 14:14:21.105 [main] log4jSample - This is an error msg
+[WARN ] 2024-08-21 14:14:21.106 [main] log4jSample - This is an warning msg
+[FATAL] 2024-08-21 14:14:21.106 [main] log4jSample - This is an fatal msg
+[INFO ] 2024-08-22 11:45:32.124 [main] log4jSample - Firefox Browser started
+[INFO ] 2024-08-22 11:46:00.649 [main] log4jSample - Chrome Browser started
+[INFO ] 2024-08-22 11:46:00.655 [main] log4jSample - Firefox Browser started
+[INFO ] 2024-08-22 11:46:57.260 [main] log4jSample - Firefox Browser started
+[INFO ] 2024-08-22 11:51:10.618 [main] log4jSample - Firefox Browser started
+[WARN ] 2024-08-22 15:13:08.600 [main] ZipPackage - Error in zip file D:\selenium with java\Practise-Project1\exce\data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[INFO ] 2024-08-22 15:14:00.049 [main] log4jSample - Firefox Browser started
+[WARN ] 2024-08-22 15:14:30.360 [main] ZipPackage - Error in zip file D:\selenium with java\Practise-Project1\exce\data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-08-22 15:14:45.585 [main] ZipPackage - Error in zip file D:\selenium with java\Practise-Project1\exce\data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[DEBUG] 2024-08-22 15:15:06.393 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:15:06.403 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-08-22 15:15:51.118 [main] log4jSample - Firefox Browser started
+[INFO ] 2024-08-22 15:16:20.662 [main] log4jSample - Chrome Browser started
+[DEBUG] 2024-08-22 15:16:56.125 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:16:56.140 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 15:24:53.680 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:24:53.692 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 15:25:14.354 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:25:14.368 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 15:28:45.833 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:28:45.850 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 15:28:46.770 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:28:46.772 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 15:55:27.656 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 15:55:27.668 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:48:30.501 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:48:30.516 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:50:17.365 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:50:17.379 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:51:29.631 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:51:29.641 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:52:10.714 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:52:10.724 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:54:55.217 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:54:55.227 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 16:59:46.900 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 16:59:46.917 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:12:43.996 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:12:44.007 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:12:47.645 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:12:47.654 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:14:00.945 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:14:00.953 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:14:21.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:14:21.929 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:15:49.104 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:15:49.114 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:17:12.936 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:17:12.945 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:25:46.293 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:25:46.301 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:26:24.749 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:26:24.757 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:28:01.357 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:28:01.367 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:29:57.830 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:29:57.842 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-22 17:40:36.124 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-22 17:40:36.132 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-23 09:25:18.029 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-23 09:25:18.039 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels

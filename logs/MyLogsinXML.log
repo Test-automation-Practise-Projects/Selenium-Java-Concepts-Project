@@ -1,0 +1,4 @@
+[INFO ] 2024-08-21 15:51:18.903 [main] log4jSample - This is information msg
+[ERROR] 2024-08-21 15:51:18.911 [main] log4jSample - This is an error msg
+[WARN ] 2024-08-21 15:51:18.912 [main] log4jSample - This is an warning msg
+[FATAL] 2024-08-21 15:51:18.912 [main] log4jSample - This is an fatal msg
